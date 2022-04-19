@@ -1,2 +1,3 @@
-# projeto-dio
-Projeto da DIO 
+# Projeto DIO
+
+**Repositório como projeto da DIO** 
