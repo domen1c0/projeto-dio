@@ -1,0 +1,40 @@
+Curso de WEB com Bruno Prado. Bootcamp Carrefour
+
+ REDES
+
+Backbone - estruturas que gerenciam o tráfego da internet.
+-Dial-up - conexão de forma discada .
+-ADSL (banda larga).
+-TCP - Transmission Control Protocol - Protocole de Controle de Transmissão.
+- IP - Internet Protocol - Protocole de Internet.
+-----------------------------------------------------------------------------------------
+4 Camadas
+
+1. Física (ex.: placa de rede).
+2. Rede (ex.: IP).
+3. Transporte (ex.: TCP, UDP).
+4. Aplicação (ex.: FTP,SMTP,HTTP).
+-FTP - envio de arquivos.
+-SMTP - email.
+-HTTP - requisição de sites.
+- UDP - Forma de conexão não confiável. Usado em Livestreams, por exemplo.
+- TCP - Voltado à conexão. Handshake. Integridade, ordem dos dados
+-----------------------------------------------------------------------------------------
+ PORTAS
+
+- 20: FTP
+- 22: SSH
+- 25: SMTP - O Gmail usa estas portas: 25, 465 OU 587
+- 53: DNS
+- 80: HTTP
+- 443: HTTPS
+- Por padrão o MySQL usa a porta 3306
+- O Apache usa a porta 80
+
+
+
+
+
+
+
+
