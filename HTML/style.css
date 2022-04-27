@@ -1,0 +1,40 @@
+body{
+    background: whitesmoke;
+    font-family:monospace;
+    list
+}
+
+#title,.subtitle, .posttitle{
+    color: rgb(35, 121, 233);
+
+}
+
+.posttitle{
+    font-size: 16px;
+    font-style: italic;
+    margin: 0;
+    margin-bottom: 15px;
+    padding-left: 50%;
+    padding-top: 10px;
+    color: rgb(35, 121, 233);
+}
+
+.post{
+    background: rgb(223, 225, 230);
+    padding: 15px;
+    border: 3px solid rgb(35, 121, 233);
+    margin-bottom: 15px;
+    border-radius: 30px;
+}
+
+.postcontent{
+    margin: 0;
+    margin-bottom: 15px;
+    color: rgb(0, 0, 0);
+}
+
+.postimage{
+    margin-bottom: 15px;
+    padding-left: 25%;
+    border-radius: 50%;
+}
